@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046488112207",
+    "project_id": "broadcast-receiver-60d6c",
+    "storage_bucket": "broadcast-receiver-60d6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046488112207:android:a156a9a48910158fa79e3a",
+        "android_client_info": {
+          "package_name": "com.example.broadcastreceiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOAX14HX7CGo5ibXNhWIWl-6RPciXrXi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
